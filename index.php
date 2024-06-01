@@ -158,10 +158,10 @@
       <a href="#" class="SocialLogo">HMS</a>
       <p class="WebsiteRights">L.D COLLEGE © 2024</p>
       <div class="SocialIcons">
-        <a href="https://www.facebook.com/vituniversity/" class="SocialIconLink"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
-        <a href="https://twitter.com/VIT_univ?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" class="SocialIconLink"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-        <a href="https://www.instagram.com/vellore_vit/?hl=en" class="SocialIconLink"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-        <a href="https://www.youtube.com/channel/UCA9pirjKrKlg2bCvPKRDkyg" class="SocialIconLink"><i class="fa-brands fa-youtube"></i></a>
+        <a href="https://www.facebook.com/ldce.ac.in/" class="SocialIconLink"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+        <a href="https://x.com/ldceahd?lang=en" class="SocialIconLink"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+        <a href="https://www.instagram.com/ldceofficial/?hl=en" class="SocialIconLink"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+        <a href="https://www.youtube.com/watch?v=zYE1-fi5fdo" class="SocialIconLink"><i class="fa-brands fa-youtube"></i></a>
       </div>
     </div>
 
