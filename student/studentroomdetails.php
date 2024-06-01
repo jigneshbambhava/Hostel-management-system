@@ -66,7 +66,7 @@ hr{
 </div>
 <div class="card">
 
-  <img class="avatar"src="..\images\gowtham.jpeg" alt="Avatar" >
+  <img class="avatar"src="..\images\jignesh.jpeg" alt="Avatar" >
   <br>
   <br>
   <div class="container">
