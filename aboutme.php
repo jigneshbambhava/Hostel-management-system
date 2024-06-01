@@ -36,10 +36,10 @@
         <div class="card">
             <div class="content">
                 <div class="imgBx">
-                    <img src="images\gowtham.jpeg" alt="">
+                    <img src="images\sanket.jpeg" alt="">
                 </div>
                 <div class="contentBx">
-                    <h4>Gowtham</h4>
+                    <h4>Sanket</h4>
                     <h5>Student</h5>
                 </div>
                 <div class="sci">
