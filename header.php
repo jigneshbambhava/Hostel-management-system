@@ -56,6 +56,7 @@
     margin-left: 24px;
     font-weight: bold;
     text-decoration: none;
+    border-radius:50%;
     }
 
     .MobileIcon{
@@ -160,7 +161,7 @@ window.location.href ="studentdashboard.php";
   <body>
     <div class="Nav" id="Nav1">
       <div class="NavbarContainer">
-        <img src="..\images\vit1.png" alt="assam" class="NavLogo" onclick="rtohome()">
+        <img src="..\images\ldce.png" alt="assam" class="NavLogo" onclick="rtohome()">
         <div class="MobileIcon">
         <i class="fa fa-bars"></i>
         </div>
