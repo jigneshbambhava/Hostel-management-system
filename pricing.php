@@ -18,7 +18,7 @@
   <body>
     <div class="Nav" id="Nav1">
       <div class="NavbarContainer">
-        <img src="images/vit1.png" alt="" class="NavLogo" onclick="rtohome()">
+        <img src="images/ldce.png" alt="" class="NavLogo" onclick="rtohome()">
         <div class="MobileIcon">
         <i class="fa fa-bars"></i>
         </div>
