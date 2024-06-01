@@ -78,7 +78,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`name`, `regno`, `email`, `phoneno`, `password`, `gender`, `block`, `roomno`) VALUES
-('karthik', '19MIS0240', 'dasarikarthik559@gmail.com', '8885190228', 'BDs4922251@', 'male', 'Kblock', 1),
+('dilip', '19MIS0240', 'dilipbambhava8081@gmail.com', '8885190228', 'BDs4922251@', 'male', 'Kblock', 1),
 ('divya', '19MIS0241', 'divya@gmail.com', '6305415082', 'BDs4922251@', 'female', 'Qblock', 1);
 
 --
