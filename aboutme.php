@@ -52,10 +52,10 @@
         <div class="card">
             <div class="content">
                 <div class="imgBx">
-                    <img src="images\karthik.jpeg" alt="">
+                    <img src="images\dharmesh.jpeg" alt="">
                 </div>
                 <div class="contentBx">
-                    <h4>Karthik</h4>
+                    <h4>dharmesh</h4>
                     <h5>Student</h5>
                 </div>
                 <div class="sci">
