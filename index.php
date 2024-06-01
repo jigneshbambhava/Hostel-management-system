@@ -69,7 +69,7 @@
   </div>
 <div class="HeroContent">
   <h1 class="HeroH1">Hostel Management System</h1>
-  <p class="HeroP">VIT VELLORE</p>
+  <p class="HeroP">L.D COLLEGE</p>
   <div class="HeroBtnWrapper">
 <button type="button" name="button" class="NavBtnLink"  onclick="change()">Get Started</button>
   </div>
